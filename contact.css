@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+.contact
+{
+	width:600px;
+	height:780px;
+	float:left;
+	margin-left:150px;
+	margin-top:25px;
+	border: #00F;
+	border-style:solid;
+	border-radius:20px;
+	box-shadow:#999 10px 10px 15px;
+	
+	
+}
+h3
+{
+	font-size:18px;
+	margin-left:10px;
+}
+.contact h1
+{
+	margin-left:10px;
+	text-shadow:#F03 5px 5px 15px;
+}
+
+.mar
+{
+	width:300px;
+	height:600px;
+	margin-left:880px;
+	margin-top:0px;
+	float:right;
+	
+	position:absolute;
+	
+}
+.banner
+{
+	width:820px;
+	height:800px;
+	border-color:#F00;
+	border-style:solid;
+	border-radius:20px;
+	box-shadow:#999 10px 10px 15px;
+}
